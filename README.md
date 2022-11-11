@@ -14,11 +14,11 @@ This Deep Learning Web Application is build using Tensorflow-Keras in this we ha
 **1. Xception Performance:**
 
 <p align="center">
-  <img width="600" height="300" src="Utils/InceptionV3.png">
+  <img width="600" height="300" src="Utils/xception loss.png">
 </p>
 
 <p align="center">
-  <img width="600" height="300" src="Utils/download.png">
+  <img width="600" height="300" src="Utils/xception accuracy.png">
 </p>
 
 `loss: 0.5233 - accuracy: 0.9487 - val_loss: 0.0012 - val_accuracy: 1.0000`
