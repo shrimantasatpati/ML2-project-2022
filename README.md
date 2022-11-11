@@ -11,7 +11,7 @@ This Deep Learning Web Application is build using Tensorflow-Keras in this we ha
 
 ## 🤖 **Benchmarks of Different Transfer Learning Architecture on our Dataset:**
 
-**1. InceptionNetV3 Performance:**
+**1. Xception Performance:**
 
 <p align="center">
   <img width="600" height="300" src="Utils/InceptionV3.png">
@@ -23,7 +23,7 @@ This Deep Learning Web Application is build using Tensorflow-Keras in this we ha
 
 `loss: 0.5233 - accuracy: 0.9487 - val_loss: 0.0012 - val_accuracy: 1.0000`
 
-**2. RESNET50 Performance:**
+**2. RESNET152_V2 Performance:**
 
 <p align="center">
   <img width="600" height="300" src="Utils/resnet50.png">
@@ -34,19 +34,7 @@ This Deep Learning Web Application is build using Tensorflow-Keras in this we ha
 </p>
 
 `loss: 0.7661 - accuracy: 0.7355 - val_loss: 0.5443 - val_accuracy: 0.7778`
-
-
-**3. RESNET152V2 Performance:**
-
-<p align="center">
-  <img width="600" height="300" src="Utils/resnetv2.png">
-</p>
-
-<p align="center">
-  <img width="600" height="300" src="Utils/resnetacc.png">
-</p>
-
-`loss: 0.2298 - accuracy: 0.9800 - val_loss: 1.8554e-05 - val_accuracy: 1.0000` 
+ 
 
 ***As we have seen that RESNET152V2 is Performing best in comparasion to all other Transfer Learning Architecture,So we have picked up RESNET152V2 Architecture and Trained Our Model over it!!*** 
 
