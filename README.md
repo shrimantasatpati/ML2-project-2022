@@ -21,7 +21,7 @@ This Deep Learning Web Application is build using Tensorflow-Keras in this we ha
   <img width="600" height="300" src="Utils/xception accuracy.png">
 </p>
 
-`loss: 0.5233 - accuracy: 0.9487 - val_loss: 0.0012 - val_accuracy: 1.0000`
+`loss: 0.5233 - accuracy: 0.9833546876907349 - val_loss: 0.0012 - val_accuracy: 0.8979591727256775`
 
 **2. RESNET152_V2 Performance:**
 
