@@ -23,22 +23,6 @@ This Deep Learning Web Application is build using Tensorflow-Keras in this we ha
 
 `loss: 0.5233 - accuracy: 0.9833546876907349 - val_loss: 0.0012 - val_accuracy: 0.8979591727256775`
 
-**2. RESNET152_V2 Performance:**
-
-<p align="center">
-  <img width="600" height="300" src="Utils/resnet50.png">
-</p>
-
-<p align="center">
-  <img width="600" height="300" src="Utils/accur.png">
-</p>
-
-`loss: 0.7661 - accuracy: 0.7355 - val_loss: 0.5443 - val_accuracy: 0.7778`
- 
-
-***As we have seen that RESNET152V2 is Performing best in comparasion to all other Transfer Learning Architecture,So we have picked up RESNET152V2 Architecture and Trained Our Model over it!!*** 
-
-
 ## 🎯 Purpose of the Project
 
 India is the largest producer of cotton in the world. The United States Department of Agriculture (USDA) pegs India’s cotton production at 29 million bales in the 2019-20 season as against 26 million bales the previous year. The latest figures mean that India is all set to surpass China, which has a projection of 27.75 million bales for the same season.
